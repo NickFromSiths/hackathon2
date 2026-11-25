@@ -32,7 +32,7 @@ Vector3 CameraPath(float a) {
     } else { 
         return {0.0f, -drop - r, (-r - (a - endLine))};
     }
-} //google ai / gemini helped a bit with logic here, though the actual function itself was planned out by hand on desmos, it was originally a 10 unit drop, quarter circle with radius 4, then a straight line horizontally, but i changed it to simply be a circle with radius 14 later
+} //google ai / gemini helped a bit with logic here, though the actual function itself was planned out by hand on desmos, it was originally a 10 unit drop, quarter circle with radius 4, then a straight line horizontally, but i changed it to simply be a circle with radius 10 later
 
 
 
