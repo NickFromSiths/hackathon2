@@ -418,3 +418,4 @@ int main() {
 //      if possible, a spotlight effect (probably with shaders) on the card you are hovering over
 
 //i also still need to fix the timeline, because im pretty sure there are more cards in some milestones vs others
+//this code would also need a lot of cleaning up lol
